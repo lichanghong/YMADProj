@@ -9,11 +9,11 @@ Pod::Spec.new do |s|
     封装有米iOS的广告SDK到pod，使集成更方便。
   DESC
 
-  s.homepage     = "https://github.com/lichanghong/YMAD.git"
+  s.homepage     = "https://github.com/lichanghong/YMADProj.git"
   s.license      = "MIT"
   s.author             = { "李长鸿" => "lichanghong@b.360.cn" }
 
-  s.source         = { :git => "https://github.com/lichanghong/YMAD.git", :tag => "#{s.version}" }
+  s.source         = { :git => "https://github.com/lichanghong/YMADProj.git", :tag => "#{s.version}" }
   s.platform     = :ios, "8.0"
   s.ios.deployment_target = '8.0'
 
