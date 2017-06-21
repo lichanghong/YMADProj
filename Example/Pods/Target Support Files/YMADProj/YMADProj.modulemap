@@ -1,0 +1,6 @@
+framework module YMADProj {
+  umbrella header "YMADProj-umbrella.h"
+
+  export *
+  module * { export * }
+}

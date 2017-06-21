@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - YMADProj (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - YMADProj (from `../`)
+
+EXTERNAL SOURCES:
+  YMADProj:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  YMADProj: 2f039ec0ea43b0e3719ec16dd1444e2510d3f27c
+
+PODFILE CHECKSUM: 2c290bdd9917d6f52a6a6bb6f9e8b007047fb2e2
+
+COCOAPODS: 1.2.1

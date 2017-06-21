@@ -1,0 +1,22 @@
+{
+  "name": "YMADProj",
+  "version": "0.1.0",
+  "summary": "A short description of YMADProj.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lichanghong/YMADProj",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lichanghong": "lichanghong@b.360.cn"
+  },
+  "source": {
+    "git": "https://github.com/lichanghong/YMADProj.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YMADProj/Classes/**/*"
+}

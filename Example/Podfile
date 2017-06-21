@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YMADProj_Example' do
+  pod 'YMADProj', :path => '../'
+
+  target 'YMADProj_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
