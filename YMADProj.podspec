@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YMADProj'
-  s.version          = '0.0.7'
+  s.version          = '0.0.10'
   s.summary      = "YMAD is a SDK for UM AD "
 
 
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'YMADProj/Classes/**/*','YMADProj/lib/include'
+  s.source_files = 'YMADProj/Classes/**/*'
   s.resource       = "YMADProj/lib/UMVideo.bundle"
   s.preserve_paths = "YMADProj/lib/libUMVideoSDK.a"
 
